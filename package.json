@@ -1,6 +1,6 @@
 {
   "name": "@jackallabs/browserify-aes",
-  "version": "1.2.0-CCM.1",
+  "version": "11.2.0-CCM.1",
   "description": "aes, for browserify, by Jackal Labs",
   "browser": "browser.js",
   "main": "index.js",
