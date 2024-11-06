@@ -1,7 +1,7 @@
 {
-  "name": "browserify-aes",
-  "version": "1.2.0_CCM.1",
-  "description": "aes, for browserify",
+  "name": "@jackallabs/browserify-aes",
+  "version": "1.2.0-CCM.1",
+  "description": "aes, for browserify, by Jackal Labs",
   "browser": "browser.js",
   "main": "index.js",
   "directories": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/crypto-browserify/browserify-aes.git"
+    "url": "git://github.com/JackalLabs/browserify-aes.git"
   },
   "keywords": [
     "aes",
@@ -24,9 +24,9 @@
   "author": "",
   "license": "MIT AND BSD-3-Clause AND (BSD-2-Clause OR GPL-2.0)",
   "bugs": {
-    "url": "https://github.com/crypto-browserify/browserify-aes/issues"
+    "url": "https://github.com/JackalLabs/browserify-aes/issues"
   },
-  "homepage": "https://github.com/crypto-browserify/browserify-aes",
+  "homepage": "https://github.com/JackalLabs/browserify-aes",
   "dependencies": {
     "buffer-xor": "^1.0.3",
     "cipher-base": "^1.0.0",
